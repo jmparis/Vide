@@ -5,8 +5,8 @@ build/*
 dist/
 logs/
 
-# Serialized objects
-serialize/
+# local vectorlist files
+xml/vectorlist/C*
 
 # IDE and OS files
 .idea/
@@ -18,6 +18,4 @@ serialize/
 # Platform-specific
 .DS_Store
 Thumbs.db
-
-xml/vectorlist/C*
 
