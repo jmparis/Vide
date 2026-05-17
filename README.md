@@ -1,4 +1,10 @@
-VIDE
+# Vide - Vectrex IDE
+
+![Vide banner](assets/Vide-banner.png)
+
+---
+
+## Notes from the author
 
 Vide is a collection of different sources - and some new creations - in a single application.
 It is a Vectrex Integrated Developement Environment.
@@ -12,12 +18,21 @@ Vide is a mixture of different sources that I found around the internet.
 My own code and my own changes I place under the Licence: GPL v2 or later
 
 Code I used from other sources keep their respective licences!
-For code I used and licences pleas look at: http://vectrex.malban.de/preliminary/19c9af2f.html
+For code I used and licences pleas look at [VIDE: Copyrights and Licenses...](http://vectrex.malban.de/preliminary/19c9af2f.html)
 
-
-http://vide.malban.de
+[malban](http://vide.malban.de)
 
 or at the
-online Vide documentation:
+online Vide [documentation](http://vectrex.malban.de/preliminary)
 
-http://vectrex.malban.de/preliminary
+---
+
+## Fedora
+
+Run the following script, to launch the IDE.
+
+```bash
+./vide.sh
+```
+
+---
