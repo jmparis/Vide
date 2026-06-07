@@ -27,7 +27,13 @@ online Vide [documentation](http://vectrex.malban.de/preliminary)
 
 ---
 
-## Fedora
+## Compilation
+
+```bash
+./build.sh
+```
+
+## Launch VIDE
 
 Run the following script, to launch the IDE.
 
